@@ -14,3 +14,7 @@ http://maxtaco.github.io/coffee-script/
 https://github.com/0x5c
 
 https://www.openpgp.org/
+
+http://coolsdrstuff.blogspot.com/2018/08/jmempgp-java-pgp-api-for-handling.html
+
+https://www.bouncycastle.org/java.html
