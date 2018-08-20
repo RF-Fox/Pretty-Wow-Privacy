@@ -1,7 +1,7 @@
 # Pretty-Wow-Privacy
 Pretty Wow Privacy (PGP) Web Client
 
-A simple web client to Create PGP keys and encrypt/decrypt PGP messages.
+A simple web client to Create PGP keys and encrypt/decrypt PGP messages. You can use this online over at http://ethereumtech.biz but it is safer to download and use locally.
 
 This would not be possible without the following people/programs:
 
